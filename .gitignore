@@ -1,0 +1,26 @@
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test coverage
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Supabase local
+supabase/.temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

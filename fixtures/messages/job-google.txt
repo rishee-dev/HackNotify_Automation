@@ -1,0 +1,10 @@
+Google is expanding its team! We are looking for Associate Software Engineers to join our core engineering group.
+
+Entity: Google
+Title: Associate Software Engineer
+Location: Pune, India (Onsite)
+Salary: 18 - 24 LPA
+Eligibility: 2024 / 2025 graduates, proficient in C++, Java, or Go. 0-1 years experience.
+Deadline: April 15, 2025
+
+Apply now via Google Careers: https://example.com/google-ase-job
