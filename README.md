@@ -1,8 +1,8 @@
-# HackNotify Autopilot
+# HackNotify Automation
 
 **Backend automation platform for HackNotify India** — a student technology opportunity community.
 
-HackNotify Autopilot collects opportunities from external channels, analyzes them with AI, verifies them, detects duplicates, generates formatted posts, and publishes approved opportunities.
+HackNotify Automation collects opportunities from external channels, analyzes them with AI, verifies them, detects duplicates, generates formatted posts, and publishes approved opportunities.
 
 ---
 
@@ -166,7 +166,7 @@ Phase 2 provides the downstream **Gemini AI Opportunity Extraction & Classificat
 ## Project Structure
 
 ```
-hacknotify-autopilot/
+hacknotify-Automation/
 ├── fixtures/
 │   └── messages/                     # Synthetic test fixtures for local analysis
 │       ├── internship-amazon.txt
