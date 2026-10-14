@@ -1,6 +1,6 @@
 # HackNotify Automation
 
-**Backend automation platform for HackNotify India** — a student technology opportunity community.
+**Backend automation platform for HackNotify India** a student technology opportunity community.
 
 HackNotify Automation collects opportunities from external channels, analyzes them with AI, verifies them, detects duplicates, generates formatted posts, and publishes approved opportunities.
 
